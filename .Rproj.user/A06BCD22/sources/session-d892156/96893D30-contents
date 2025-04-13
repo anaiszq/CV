@@ -1,0 +1,192 @@
+
+---
+title: "Anaïs Quist"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false
+    css: styles.css
+    grid:
+      body-width: 800px
+      margin-width: 0px
+---
+
+
+::: {style="text-align: left; font-size: 0.9em; margin-top: -1em;"}
+<strong>Statistician</strong><br>French citizenship, B-permit <br> Cote 131A, 2000 Neuchatel<br> 🌐+41(0)797469826<br> <a href="mailto:anais.zodeougan-quist@unine.ch">anais.zodeougan-quist\@unine.ch</a>
+:::
+
+::::: {style="font-size: 75%;"}
+## Education
+
+Master of Science in Statistics 2018-2022\
+**Faculty of Sciences - University of Neuchatel, Switzerland**
+
+Bachelor of Arts in Sociology & Management 2016-2018\
+**Faculty of Human Sciences - University of Neuchatel, Switzerland**
+
+Bachelor of General Studies in Economics 2010-2012\
+**University of Panthéon-ASSAS, Faculty of Law & Economics, France**
+
+**Trainings** EPFL - Applied Biostatistics (Dr.Goldstein, Darlene)
+
+**Rewards** Prize for the best seminar paper in quantitative research 2017-18 (UniNE)
+
+**Programming skills** VBA-Excel, Python, SQL (PL/SQL)\
+**Typesetting** LATEX\
+**Statistical softs.** R/RStudio(Rmarkdown, Quarto), STATA, SPSS, SAS & Statistica (beginner)
+
+## Vocational experiences
+
+::: panel-tabset
+### Statistician
+
+-   **Philip Morris R&D, Design & Control Change unit** -*Since Feb. 2024*
+
+    -   Stability Statistical studies (as per ICH Q2 guidelines) assessing aerosol, chemical, physical and microbiological compounds
+    -   Statistical analyses provided in the form of written reports and presentations (ANOVA, SEM, mixed-design models, Power analysis & sample size calculation., etc.)
+    -   Statistical support to engineers, scientists, designers to address key biological questions
+    -   Support products development/improvement through statistical assessments
+    -   Basic statistical training to engineers
+
+-   **United Nations Institute for Training and Research (UNITAR), SDG unit** -*Oct. 2021 - Oct. 2023*
+
+-   Citizen generated data analysis within the European Commission project-grant agreement No. 872944[Crowd4SDG](www.crowd4sdg.eu)
+
+    -   Statistical support to participants of the Crowd4SDG/ Open17 Challenge
+    -   Statistical support to beneficiaries (NBS Maldives, Ministry of Environment of Maldives) to analyse SDGs data gap
+    -   Statistical analyses of data generated during the cycles of the Crowd4SDG project
+    -   Statistical collaboration with other IGO/NGO experts (UNEP-Dany Ghafari, UNWater-Stuart Warner, KBA Secretariat- Andrew Plumptre)
+    -   Contribution to deliverables production ([co-authored](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5fb97ee8b&appId=PPGMS) and [reviewed](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CDgQw7AJahcKEwjwuPDSkNeAAxUAAAAAHQAAAAAQAw&url=https%3A%2F%2Fec.europa.eu%2Fresearch%2Fparticipants%2Fdocuments%2FdownloadPublic%3FdocumentIds%3D080166e5fb95b64d%26appId%3DPPGMS&psig=AOvVaw0TX6uT7L5x9hlK2PGC3wUX&ust=1691930009347562&opi=89978449))
+
+-   Statistical literacy and data analysis courses (Swiss Cooperation funded project)
+
+    -   Improving, creating statistical course modules and learning reinforcement content for the UNSDG-Learn platform
+    -   Co-creating statistical course modules for the UNITAR e-learning platform. Course content lead: Pr. Maria Masood (UniGE)
+    -   Organising R/RStudio training sessions: 20 participants per sessions of 2 hours
+    -   Development of Rscripts for training sessions
+    -   Statistical planning tool promotion: organisation of StaTact workshops to interested NGOs, countries representatives
+    -   Eurostat/SDSN data analysis for the Monitoring framework and coordination mechanism for SDGs in Cyprus project
+
+### Data Analyst
+
+-   **Swiss Federal Statistical Office (FSO), Gebäude und Wohnungen Sektion** -*Jul. 2015 - Jun. 2016*
+
+    -   Specifying algorithms using PL/SQL language for external data loading
+    -   Process description in accordance with BPMN standards
+    -   Data analysis of the Federal Register of the Dwellings & Buildings for quality and comprehensiveness comparison with external data (Baublatt)
+    -   Formulation of proposals regarding the Federal Register improvement (written report)
+
+-   **Glenmark Pharmaceuticals, Downstream Process team** -*Nov. 2017 - Feb. 2018*
+
+    -   Development of VBA Modules for database construction and data mining purposes to classify purification stages
+    -   Statistical support to Downstream Processes (DSP) scientists and engineers
+
+-   **UC Rusal AG, Market Intelligence Unit** -*Jul. 2017 - Oct. 2017*
+
+    -   Development of VBA Modules for loading and managing CRU historical aluminum data
+    -   Construction of database based on CRU historical data (data analysis, data standardization processes) using VBA-Access from VBA-Excel
+    -   Proposal of different solutions on automation macros to update the database
+    -   Production of a manual/user-guide of the VBA script for the Marketing Intelligence team
+
+### Research assistant in Statistics
+
+-   **University of Neuchatel, NCCR on-the-move** -*Mar. 2019 - Feb.2020*
+
+    -   Analyzing and extracting relevant academic articles from Zotero database upon guidelines
+    -   Gathering in a database quantitative element from academic articles for the meta-analysis
+    -   Project: Overcoming Inequalities in the Labor Market, Project leader: Dr. Didier Ruedin, Postdoc researcher: Dr. Eva Van Belle
+
+### Other experiences in France
+
+-   **AMUNDI ASSET MANAGEMENT** -*Dec. 2012 - Jun. 2013*
+
+    -   Data management assistant
+
+<!--   - In charge the WEB REPORTING DATABASE comprehensiveness -->
+
+<!--   - Controlling monthly factsheets & data’s quality -->
+
+<!--   - Daily connections with commercials partners & reporting officers from Hong-Kong, Singapore, Italy and France -->
+
+-   **LCL (Financial & Insurances institution)** -*2009-2013*
+
+    -   Customer Service Officer
+
+    <!-- - In charge the WEB REPORTING DATABASE comprehensiveness -->
+
+    <!-- - Controlling monthly factsheets & data’s quality -->
+
+    <!-- - Daily connections with commercials partners & reporting officers from Hong-Kong, Singapore, Italy and France -->
+:::
+
+## Academic reports
+
+::: panel-tabset
+### Graduate
+
+-   **Master Thesis: Survival Analysis of patients infected with Primary Biliary Cholangitis**
+
+    -   Supervised by Pr. Yves Tillé
+    -   Mayo Clinic dataset
+
+-   **Report: Analysis of variance of fungal invasion on apple varieties**
+
+    -   Supervised by Pr. Darlene Goldstein
+    -   After Horne, AS, and Frederick Gugenheim study (1928)
+
+-   **Computational statistics report: Transformed rejection method for generation of Poisson random variables (W.Hormann)**
+
+    -   Supervised by Pr. Alina Matei
+    -   Presentation and Rscript based on the aforementioned article
+
+-   **Report: Poverty in the EU, An introductory analysis of material and social deprivation**
+
+    -   Unsupervised
+    -   EU-SILC dataset
+
+### Undergrad.
+
+-   **Bachelor Thesis: Social perceptions of plant substances**
+
+    -   Supervised by Pr. Christian Suter
+    -   Questionnaire produced and addressed to the students of Neuchatel
+
+-   **Report: The English Indices of Deprivation 2015 - Health deprivation and disability domain analysis**
+
+    -   Colloquium: Social Indicators Symposium - Pr. Christian Suter, Tugce Beycan
+
+-   **Report: Social well-being and mental health of independent workers**
+
+    -   Supervised by Pr. Miheala Nedelcu
+    -   Workshop: Qualitative methodology in social sciences
+:::
+
+## Other assignments
+
+-   CROWD4SDG/Open17 Challenge, November 2022
+    -   *Jury member*
+    -   UNITAR Representative, selection phase III
+    -   Statistical advise to selected teams
+-   CROWD4SDG Final Conference at CERN, March 2023
+    -   *Speaker*
+    -   Topic: Leveraging citizen science for data-driven policies on sustainable development
+-   OpenGeneva Trialogue, March 2023
+    -   *Lecturer*
+    -   Coaching session: Introduction to Survey sampling methodology, to Crowd4SDG GEAR Cycle finalists
+
+## Professional memberships
+
+**SWISS STATISTICAL SOCIETY** Since 2022
+
+-   *Co-writer* for the [Bulletin](https://osf.io/j9k2d)
+
+**BASEL BIOMETRICS SOCIETY**, Suisse Romandie Chapter
+
+-   *Under creation*
+
+## Miscellaneous
+
+Hobbies: French, British & American Literature, statistics [educational channel](https://www.youtube.com/channel/UC1FzsjGws3sJmiZvEYe5AoQ), cat epidemiology, economic outreach books (Freakonomics, Henry Spearman series), hackathons (TWIST/Swiss Statistics Meetings 2018), knitting, video games, Athletics (400m & triple jump, 10 years at C.A.Montreuil 93), gardening.
+:::::

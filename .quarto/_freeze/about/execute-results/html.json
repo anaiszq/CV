@@ -1,0 +1,15 @@
+{
+  "hash": "0409612fb583faafb52d27b1861df56d",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\n---\n\nMy name is Anaïs Zodeougan Quist.\n\nI am currently a Statistician working in Industrial R&D company, based in Neuchâtel.\n\nWhenever time allows, I also act as a Substitute teacher at La Neuveville Business School located in Bern Kanton.\n\nThis site is developped using Quarto website project, hosted on GitHub, and under construction :)\n\n🎓 MSc in Statistics, BA in Sociology with a minor in Mathematics from the University of Neuchâtel.\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
