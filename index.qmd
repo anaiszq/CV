@@ -122,10 +122,6 @@ Bachelor of General Studies in Economics 2010-2012\
 ## List of Publications
 
 ::: panel-tabset
-<<<<<<< HEAD
-=======
-
->>>>>>> fd6a9b5ad4f023735586721f248d377d9ac0db20
 ### Published
 
 -   **Data usability assessment and recommendations for SDGs GEAR cycle 2**
