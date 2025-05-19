@@ -119,9 +119,27 @@ Bachelor of General Studies in Economics 2010-2012\
     <!-- - Daily connections with commercials partners & reporting officers from Hong-Kong, Singapore, Italy and France -->
 :::
 
-## Academic reports
+## List of Publications
 
 ::: panel-tabset
+
+### Published
+
+-   **Data usability assessment and recommendations for SDGs GEAR cycle 2**
+
+    -   Elena Proden, Anaïs Zodeougan Quist
+    -   Ref. Ares(2022)4412068 - 15/06/2022
+
+-   **Data usability assessment and recommendations for SDGs GEAR cycle 3**
+
+    -   Elena Proden, Anaïs Zodeougan Quist
+    -   Ref. Ares(2023)3269088 - 10/05/2023
+
+-   **Final report on the results achieved from the utilization of CS in support**
+
+    -   Elena Proden, Madina Imaralieva, Anaïs Zodeougan Quist
+    -   Ref. Ares(2023)3350051 – 12/05/2023
+
 ### Graduate
 
 -   **Master Thesis: Survival Analysis of patients infected with Primary Biliary Cholangitis**
