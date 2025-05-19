@@ -53,6 +53,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My name is Anaïs Zodeougan Quist.\nI am currently a Statistician working in Industrial R&D company, based in Neuchâtel.\nWhenever time allows, I also act as a Substitute teacher at La Neuveville Business School located in Bern Kanton.\nThis site is developped using Quarto website project, hosted on GitHub, and under construction :)\n🎓 MSc in Statistics, BA in Sociology with a minor in Mathematics from the University of Neuchâtel."
+    "text": "My name is Anaïs Zodeougan Quist.\nI am currently a Statistician working in Industrial R&D company, based in Neuchâtel.\nWhenever time allows, I also act as a Substitute teacher at La Neuveville Business School located in Bern Kanton.\nThis site is developped using Quarto, hosted on GitHub, and under construction :)\n🎓 MSc in Statistics, BA in Sociology with a minor in Mathematics from the University of Neuchâtel."
+  },
+  {
+    "objectID": "index.html#list-of-publications",
+    "href": "index.html#list-of-publications",
+    "title": "Anaïs Quist",
+    "section": "List of Publications",
+    "text": "List of Publications\n\nPublishedGraduateUndergrad.\n\n\n\nData usability assessment and recommendations for SDGs GEAR cycle 2\n\nElena Proden, Anaïs Zodeougan Quist\nRef. Ares(2022)4412068 - 15/06/2022\n\nData usability assessment and recommendations for SDGs GEAR cycle 3\n\nElena Proden, Anaïs Zodeougan Quist\nRef. Ares(2023)3269088 - 10/05/2023\n\nFinal report on the results achieved from the utilization of CS in support\n\nElena Proden, Madina Imaralieva, Anaïs Zodeougan Quist\nRef. Ares(2023)3350051 – 12/05/2023\n\n\n\n\n\nMaster Thesis: Survival Analysis of patients infected with Primary Biliary Cholangitis\n\nSupervised by Pr. Yves Tillé\nMayo Clinic dataset\n\nReport: Analysis of variance of fungal invasion on apple varieties\n\nSupervised by Pr. Darlene Goldstein\nAfter Horne, AS, and Frederick Gugenheim study (1928)\n\nComputational statistics report: Transformed rejection method for generation of Poisson random variables (W.Hormann)\n\nSupervised by Pr. Alina Matei\nPresentation and Rscript based on the aforementioned article\n\nReport: Poverty in the EU, An introductory analysis of material and social deprivation\n\nUnsupervised\nEU-SILC dataset\n\n\n\n\n\nBachelor Thesis: Social perceptions of plant substances\n\nSupervised by Pr. Christian Suter\nQuestionnaire produced and addressed to the students of Neuchatel\n\nReport: The English Indices of Deprivation 2015 - Health deprivation and disability domain analysis\n\nColloquium: Social Indicators Symposium - Pr. Christian Suter, Tugce Beycan\n\nReport: Social well-being and mental health of independent workers\n\nSupervised by Pr. Miheala Nedelcu\nWorkshop: Qualitative methodology in social sciences"
   }
 ]
